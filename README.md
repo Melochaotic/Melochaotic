@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GingerNinjaNicko
-- 👀 I’m interested in Music, boxing and coding!
-- 🌱 I’m currently learning Laravel, Tailwind & Vue
-- 💞️ I’m looking to collaborate on Laravel and testing
-- 📫 How to reach me ... No idea... 😂
+- 🎸 I play bass and sing in [Uprising](https://uprisingrocks.com/)
+- 👀 I’m interested in Music, Board gaming and coding!
+- 🌱 I’m currently learning Laravel, Tailwind & Next.js
+- 📫 Visit [my website](https://nickojruddock.co.uk)
 
 <!---
 GingerNinjaNicko/GingerNinjaNicko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
